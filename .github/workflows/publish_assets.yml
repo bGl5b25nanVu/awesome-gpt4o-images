@@ -1,0 +1,106 @@
+name: Publish Assets
+
+on:
+  # 当 examples 目录或相关文件有更新时触发
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'examples/**'
+      - 'README.md'
+      - 'README_en.md'
+      - 'scripts/extract_examples.py'
+      - 'scripts/extract_examples_en.py'
+  
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v35
+        with:
+          files: |
+            examples/**
+            README.md
+            README_en.md
+            scripts/extract_examples.py
+            scripts/extract_examples_en.py
+      
+      - name: Display changed files
+        run: |
+          echo "Changed files:"
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "$file"
+          done
+      
+      - name: Make scripts executable
+        run: |
+          chmod +x scripts/extract_examples.py
+          chmod +x scripts/extract_examples_en.py
+      
+      - name: Generate examples.json
+        run: python scripts/extract_examples.py
+      
+      - name: Generate examples_en.json
+        run: python scripts/extract_examples_en.py
+      
+      - name: Create release assets directory
+        run: |
+          mkdir -p release-assets
+          
+          # 复制 JSON 文件
+          cp -f examples.json release-assets/ || echo "examples.json not found"
+          cp -f examples_en.json release-assets/ || echo "examples_en.json not found"
+          
+          # 复制 examples 目录
+          if [ -d "examples" ]; then
+            cp -r examples release-assets/
+          else
+            echo "examples directory not found"
+          fi
+      
+      - name: Compress assets
+        run: |
+          cd release-assets
+          zip -r ../gpt4o-examples-assets.zip .
+          cd ..
+      
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Assets Release ${{ steps.date.outputs.date }}
+          tag_name: assets-${{ steps.date.outputs.date }}
+          files: |
+            gpt4o-examples-assets.zip
+            release-assets/examples.json
+            release-assets/examples_en.json
+          body: |
+            自动发布 GPT-4o 图像示例资产
+            
+            包含:
+            - examples 目录
+            - examples.json（自动生成）
+            - examples_en.json（自动生成）
+            
+            完整资产包: [gpt4o-examples-assets.zip](https://github.com/${{ github.repository }}/releases/download/assets-${{ steps.date.outputs.date }}/gpt4o-examples-assets.zip)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
