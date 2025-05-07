@@ -56,6 +56,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 90：品牌化键盘键帽 (by @egeberkina)](#cases-90)
 *   [案例 89：镀铬emoji徽章 (by @egeberkina)](#cases-89)
 *   [案例 88：儿童涂色页插画（含彩色参考图） (by @dotey)](#cases-88)
 *   [案例 87：字母与单词含义融合 (by @dotey)](#cases-87)
@@ -150,6 +151,27 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-90"></a>
+### 案例 90：品牌化键盘键帽 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1918291652210311278)
+
+<img src="cases/90/case.png" width="300" alt="品牌化键盘键帽">
+
+**提示词**
+
+```
+一个超逼真的3D渲染图，展示了四个机械键盘键帽，排列成紧密的2x2网格，所有键帽相互接触。从等轴测角度观察。一个键帽是透明的，上面用红色印刷着“{just}”字样。另外三个键帽采用颜色：{黑色、紫色和白色}。一个键帽上带有Github的Logo。另外两个键帽上分别写着“{fork}”和“{it}”。逼真的塑料纹理，圆润的雕刻键帽，柔和的阴影，干净的浅灰色背景。
+```
+
+*注意： 替换品牌名、标语、键帽颜色*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-89"></a>
 ### 案例 89：镀铬emoji徽章 (by [@egeberkina](https://x.com/egeberkina))

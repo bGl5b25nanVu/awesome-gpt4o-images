@@ -54,6 +54,7 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
 *   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
 *   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
 *   [Case 87: Integrating Word Meaning into Letters (by @dotey)](#cases-87)
@@ -148,6 +149,27 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-90"></a>
+### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://x.com/egeberkina))
+
+[Source Link](https://x.com/egeberkina/status/1918291652210311278)
+
+<img src="cases/90/case.png" width="300" alt="Branded Mechanical Keycaps">
+
+**Prompt**
+
+```
+ultra-realistic 3D render of four mechanical keyboard keycaps in a tight 2x2 grid, all keys touching. View from an isometric angle. One key is transparent with the word “{just}” printed in {white}. The other three colors are: {black, purple, and white}. One key features the {Github} logo. The other two say "{fork}" and "{it}". Realistic plastic texture, rounded sculpted keycaps, soft shadows, clean light-gray background.
+```
+
+*Note: Replace brand name, slogan, keycap colors*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-89"></a>
 ### Case 89: Chrome Emoji Pin (by [@egeberkina](https://x.com/egeberkina))
