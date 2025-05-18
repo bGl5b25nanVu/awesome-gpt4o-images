@@ -56,6 +56,16 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)](#cases-100)
+*   [案例 99：黑白肖像艺术 (by @ZHO_ZHO_ZHO)](#cases-99)
+*   [案例 98：磨砂玻璃后的虚实对比剪影 (by @umesh_ai)](#cases-98)
+*   [案例 97：可爱温馨针织玩偶 (by @ZHO_ZHO_ZHO)](#cases-97)
+*   [案例 96：定制动漫手办 (by @dotey)](#cases-96)
+*   [案例 95：自拍生成摇头娃娃 (by @thisdudelikesAI)](#cases-95)
+*   [案例 94：三只动物与地标自拍 (by @berryxia_ai)](#cases-94)
+*   [案例 93：玻璃质感重塑 (by @egeberkina)](#cases-93)
+*   [案例 92：透视3D出屏效果 (by @ZHO_ZHO_ZHO)](#cases-92)
+*   [案例 91：谷歌地图变身古代藏宝图 (by @umesh_ai)](#cases-91)
 *   [案例 90：品牌化键盘键帽 (by @egeberkina)](#cases-90)
 *   [案例 89：镀铬emoji徽章 (by @egeberkina)](#cases-89)
 *   [案例 88：儿童涂色页插画（含彩色参考图） (by @dotey)](#cases-88)
@@ -151,6 +161,262 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 <a id="cases"></a>
 ## 🧩 案例
+
+<a id="cases-100"></a>
+### 案例 100：实物与手绘涂鸦创意广告 (by [@azed_ai](https://x.com/azed_ai))
+
+[原文链接](https://x.com/azed_ai/status/1923016036120658122)
+
+<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告">
+
+**提示词**
+
+```
+一则简约且富有创意的广告，设置在纯白背景上。
+一个真实的 [真实物体] 与手绘黑色墨水涂鸦相结合，线条松散而俏皮。涂鸦描绘了：[涂鸦概念及交互：以巧妙、富有想象力的方式与物体互动]。在顶部或中部加入粗体黑色 [广告文案] 文字。在底部清晰放置 [品牌标志]。视觉效果应简洁、有趣、高对比度且构思巧妙。
+```
+
+*注意： 请将提示词中的 [真实物体]、[涂鸦概念及交互]、[广告文案] 和 [品牌标志] 替换为具体内容。
+例如：
+[真实物体]：咖啡豆
+[涂鸦概念及交互]：巨型咖啡豆变成一个太空行星，一个小宇航员站在其表面上，并插上旗帜
+[广告文案]：“Explore Bold Flavor”
+[品牌标志]：星巴克 Logo*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-99"></a>
+### 案例 99：黑白肖像艺术 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+
+<img src="cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术">
+
+**提示词**
+
+```
+高分辨率的黑白肖像艺术作品，采用编辑类和艺术摄影风格。背景呈现柔和渐变效果，从中灰过渡到近乎纯白，营造出层次感与寂静氛围。细腻的胶片颗粒质感为画面增添了一种可触摸的、模拟摄影般的柔和质地，让人联想到经典的黑白摄影。
+
+画面右侧，一个模糊却惊艳的哈利波特面容从阴影中隐约浮现，并非传统的摆拍，而像是被捕捉于思索或呼吸之间的瞬间。他的脸部只露出一部分：也许是一个眼睛、一块颧骨，还有唇角的轮廓，唤起神秘、亲密与优雅之感。他的五官精致而深刻，散发出忧郁与诗意之美，却不显矫饰。
+
+一束温柔的定向光，柔和地漫射开来，轻抚他的面颊曲线，或在眼中闪现光点——这是画面的情感核心。其余部分以大量负空间占据，刻意保持简洁，使画面自由呼吸。画面中没有文字、没有标志——只有光影与情绪交织。
+
+整体氛围抽象却深具人性，仿佛一瞥即逝的目光，或半梦半醒间的记忆：亲密、永恒、令人怅然的美。
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-98"></a>
+### 案例 98：磨砂玻璃后的虚实对比剪影 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1921487841634156999)
+
+<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="磨砂玻璃后的虚实对比剪影">
+
+**提示词**
+
+```
+一张黑白照片，展示了一个[主体]在磨砂或半透明表面后的模糊剪影。其[部分]轮廓清晰，紧贴表面，与其余朦胧、模糊的身影形成鲜明对比。背景是柔和的灰色渐变色调，增强了神秘和艺术的氛围。
+```
+
+*注意： 请在 [主体] 和 [部分] 中填入具体且富有画面感的描述，突出“模糊主体 + 清晰局部”的反差效果。
+例如：[主体] 可写为“手持红色光剑的西斯领主”，[部分] 可写为“另一只聚集暗黑原力的手”。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-97"></a>
+### 案例 97：可爱温馨针织玩偶 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="可爱温馨针织玩偶">
+
+**提示词**
+
+```
+一张特写、构图专业的照片，展示一个手工钩织的毛线玩偶被双手轻柔地托着。玩偶造型圆润，【上传图片】人物得可爱Q版形象，色彩对比鲜明，细节丰富。持玩偶的双手自然、温柔，手指姿态清晰可见，皮肤质感与光影过渡自然，展现出温暖且真实的触感。背景轻微虚化，表现为室内环境，有温暖的木质桌面和从窗户洒入的自然光，营造出舒适、亲密的氛围。整体画面传达出精湛的工艺感与被珍视的温馨情绪。
+```
+
+
+**需上传参考图片：** 上传一张照片作为参考，生成其可爱Q版针织玩偶形象。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-96"></a>
+### 案例 96：定制动漫手办 (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1920851135516082246)
+
+<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="定制动漫手办">
+
+**提示词**
+
+```
+生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。
+```
+
+
+**需上传参考图片：** 请上传一张包含人物全身姿势、面部表情及服装造型的照片，用于生成手办模型。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-95"></a>
+### 案例 95：自拍生成摇头娃娃 (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+
+[原文链接](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃">
+
+**提示词**
+
+```
+将这张照片变成一个摇头娃娃：头部稍微放大，保持面部准确，身体卡通化。[把它放在书架上]。
+```
+
+*注意： 请将提示词中的[把它放在书架上]替换为您想要的特定场景或背景，例如“把它放在书架上”或“把它放在办公桌上”，或“把它放在中性背景上”，或“生成透明背景”。*
+
+**需上传参考图片：** 需要上传一张自拍照作为生成摇头娃娃的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-94"></a>
+### 案例 94：三只动物与地标自拍 (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[原文链接](https://x.com/berryxia_ai/status/1920795648946782583)
+
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="三只动物与地标自拍">
+
+**提示词**
+
+```
+三只[动物类型]在标志性[地标]前的特写自拍照，它们表情各异，拍摄于黄金时刻，采用电影般的灯光。动物们靠近镜头，头挨着头，模仿自拍姿势，展现出喜悦、惊讶和平静的表情。背景展示了[地标]完整的建筑细节，光线柔和，氛围温暖。采用摄影感、写实卡通风格拍摄，高细节，1:1 宽高比。
+```
+
+*注意： 可替换提示词中的 [动物类型] 和 [地标] 为具体描述。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-93"></a>
+### 案例 93：玻璃质感重塑 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="cases/93/glass_retexturing.jpeg" width="300" alt="玻璃质感重塑">
+
+**提示词**
+
+```
+对参考图片进行重新纹理化，基于下方的 JSON 美学定义
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+```
+
+
+**需上传参考图片：** 需要上传一张图像作为重新纹理化的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-92"></a>
+### 案例 92：透视3D出屏效果 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="透视3D出屏效果">
+
+**提示词**
+
+```
+超写实，从上往下俯视角拍摄，一个美丽的ins模特【安妮海瑟薇 / 见参考图片】，有着精致美丽的妆容和时尚的造型，站在一部被人托起的智能手机屏幕上，画面营造出强烈的透视错觉。强调女孩从手机中站出来的三维效果。她戴着黑框眼镜，穿着高街风，俏皮地摆着可爱的pose。手机屏幕被处理成深色地板，像是一个小舞台。场景使用强烈的强制透视（forced perspective）表现手掌、手机与女孩之间的比例差异。背景为干净的灰色，使用柔和室内光，浅景深，整体风格为超现实写实合成。透视特别强
+```
+
+*注意： 可将提示词中的【安妮海瑟薇】替换为其他人物名称。或者使用一张人物照片作为参考图片。*
+
+**需上传参考图片：** 可使用一张人物照片作为参考图片。本示例的参考图片是[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg)。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-91"></a>
+### 案例 91：谷歌地图变身古代藏宝图 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1919701229363466328)
+
+<img src="cases/91/case.png" width="300" alt="谷歌地图变身古代藏宝图">
+
+**提示词**
+
+```
+将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，如海洋上的帆船、海岸线上的古老港口或城堡、通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。
+```
+
+
+**需上传参考图片：** 需要上传一张谷歌地图截图或其他地图图片作为转换的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-90"></a>
 ### 案例 90：品牌化键盘键帽 (by [@egeberkina](https://x.com/egeberkina))
@@ -2310,6 +2576,7 @@ Aspect ratio: 9:16
 1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
 2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
 3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
+4. [如何轻松写出好用的提示词模板？](https://baoyu.io/blog/how-to-write-prompt-templates) by [@dotey](https://x.com/dotey)
 
 
 
@@ -2352,6 +2619,7 @@ Aspect ratio: 9:16
 *   [Anima (@Anima_Labs)](https://x.com/Anima_Labs)
 *   [terry623 (@terry623)](https://github.com/terry623)
 *   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
+*   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️

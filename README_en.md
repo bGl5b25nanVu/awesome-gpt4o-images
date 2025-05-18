@@ -54,6 +54,16 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 <a id="cases-toc"></a>
 ## 📖 Cases Directory
 
+*   [Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by @azed_ai)](#cases-100)
+*   [Case 99: Black and White Portrait Art (by @ZHO_ZHO_ZHO)](#cases-99)
+*   [Case 98: Blurred Silhouette Behind Frosted Glass (by @umesh_ai)](#cases-98)
+*   [Case 97: Cute and Cozy Knitted Doll (by @ZHO_ZHO_ZHO)](#cases-97)
+*   [Case 96: Custom Anime Figure (by @dotey)](#cases-96)
+*   [Case 95: Bobblehead Generator from Selfie (by @thisdudelikesAI)](#cases-95)
+*   [Case 94: Three Animals Selfie at Landmark (by @berryxia_ai)](#cases-94)
+*   [Case 93: Glass Retexturing (by @egeberkina)](#cases-93)
+*   [Case 92: Perspective 3D Pop-Out Effect (by @ZHO_ZHO_ZHO)](#cases-92)
+*   [Case 91: Google Maps to Ancient Treasure Map (by @umesh_ai)](#cases-91)
 *   [Case 90: Branded Mechanical Keycaps (by @egeberkina)](#cases-90)
 *   [Case 89: Chrome Emoji Pin (by @egeberkina)](#cases-89)
 *   [Case 88: Children's Coloring Page Illustration (with Color Reference) (by @dotey)](#cases-88)
@@ -149,6 +159,262 @@ GPT‑4o is a multimodal model that not only turns text prompts into high‑qual
 
 <a id="cases"></a>
 ## 🧩 Case
+
+<a id="cases-100"></a>
+### Case 100: Creative Ad with Real Object and Hand-Drawn Doodle (by [@azed_ai](https://x.com/azed_ai))
+
+[Source Link](https://x.com/azed_ai/status/1923016036120658122)
+
+<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="Creative Ad with Real Object and Hand-Drawn Doodle">
+
+**Prompt**
+
+```
+A minimalist and creative advertisement set on a clean white background.
+A real [Real Object] is integrated into a hand-drawn black ink doodle, using loose, playful lines. The [Doodle Concept] interacts with the object in a clever, imaginative way. Include bold black [Ad Copy] text at the top or center. Place the [Brand Logo] clearly at the bottom. The visual should be clean, fun, high-contrast, and conceptually smart.
+```
+
+*Note: Replace [Real Object], [Doodle Concept], [Ad Copy], and [Brand Logo] in the prompt with specific details.
+For example:
+[Real Object]: coffee bean
+[Doodle Concept]: The giant coffee bean becomes a space planet, with a small astronaut planting a flag on its surface
+[Ad Copy]: "Explore Bold Flavor"
+[Brand Logo]: Starbucks logo*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-99"></a>
+### Case 99: Black and White Portrait Art (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+
+<img src="cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="Black and White Portrait Art">
+
+**Prompt**
+
+```
+A high-resolution black and white portrait artwork, in an editorial and fine art photography style. The background features a soft gradient, transitioning from mid-gray to almost pure white, creating a sense of depth and tranquility. Fine film grain adds a tactile, analog-like softness to the image, reminiscent of classic black and white photography.
+
+On the right side of the frame, a blurred yet striking face of Harry Potter subtly emerges from the shadows, not in a traditional pose, but as if caught in a moment of thought or breath. Only a part of his face is visible: perhaps an eye, a cheekbone, the contour of his lips, evoking a sense of mystery, intimacy, and elegance. His features are delicate yet profound, exuding a melancholic and poetic beauty without being overly dramatic.
+
+A gentle, directional light, softly diffused, caresses the curve of his cheek or glints in his eye—this is the emotional core of the image. The rest of the composition is dominated by ample negative space, intentionally kept simple, allowing the image to breathe. There are no texts, no logos in the image—only an interplay of light, shadow, and emotion.
+
+The overall atmosphere is abstract yet deeply human, like a fleeting glance or a half-remembered dream: intimate, timeless, and poignantly beautiful.
+```
+
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-98"></a>
+### Case 98: Blurred Silhouette Behind Frosted Glass (by [@umesh_ai](https://x.com/umesh_ai))
+
+[Source Link](https://x.com/umesh_ai/status/1921487841634156999)
+
+<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="Blurred Silhouette Behind Frosted Glass">
+
+**Prompt**
+
+```
+A black and white photograph shows the blurred silhouette of a [SUBJECT] behind a frosted or translucent surface. The [PART] is sharply defined and pressed against the surface, creating a stark contrast with the rest of the hazy, indistinct figure. The background is a soft gradient of gray tones, enhancing the mysterious and artistic atmosphere.
+```
+
+*Note: Replace [SUBJECT] and [PART] with vivid, visually striking details that emphasize the “blurred subject + sharply defined part” contrast.
+For example, set [SUBJECT] to “a Sith Lord wielding a red lightsaber in one hand” and [PART] to “the other hand channeling the dark side of the Force.”*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-97"></a>
+### Case 97: Cute and Cozy Knitted Doll (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="Cute and Cozy Knitted Doll">
+
+**Prompt**
+
+```
+A close-up, professionally composed photograph showcasing a hand-crocheted yarn doll gently cradled by two hands. The doll has a rounded shape, featuring the cute chibi image of the [upload image] character, with vivid contrasting colors and rich details. The hands holding the doll are natural and gentle, with clearly visible finger postures, and natural skin texture and light/shadow transitions, conveying a warm and realistic touch. The background is slightly blurred, depicting an indoor environment with a warm wooden tabletop and natural light streaming in from a window, creating a comfortable and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and cherished warmth.
+```
+
+
+**Reference Image Required:** Upload a photo as a reference to generate its cute chibi knitted doll image.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-96"></a>
+### Case 96: Custom Anime Figure (by [@dotey](https://x.com/dotey))
+
+[Source Link](https://x.com/dotey/status/1920851135516082246)
+
+<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="Custom Anime Figure">
+
+**Prompt**
+
+```
+Generate an anime-style figure photo placed on a desktop, presented from a casual, everyday snapshot perspective as if taken with a mobile phone. The figure model is based on the attached character photo, accurately reproducing the full body posture, facial expression, and clothing style of the person in the photo, ensuring the entire figure is fully rendered. The overall design is exquisite and detailed, with hair and clothing featuring natural, soft gradient colors and fine textures. The style leans towards Japanese anime, rich in detail, with realistic textures and a beautiful appearance.
+```
+
+
+**Reference Image Required:** Please upload a photo showing the person's full body posture, facial expression, and clothing style to be used as the basis for the figure model.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-95"></a>
+### Case 95: Bobblehead Generator from Selfie (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+
+[Source Link](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="Bobblehead Generator from Selfie">
+
+**Prompt**
+
+```
+Turn this photo into a bobblehead: enlarge the head slightly, keep the face accurate and cartoonify the body. [Place it on a bookshelf].
+```
+
+*Note: Please replace [Place it on a bookshelf] in the prompt with your desired specific scene or background, for example "Place it on a bookshelf" or "Place it on an office desk", or "Place it on a neutral background" or "Generate with a transparent background".*
+
+**Reference Image Required:** A selfie needs to be uploaded as the basis for generating the bobblehead.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-94"></a>
+### Case 94: Three Animals Selfie at Landmark (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[Source Link](https://x.com/berryxia_ai/status/1920795648946782583)
+
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="Three Animals Selfie at Landmark">
+
+**Prompt**
+
+```
+A close-up selfie of three [animal type] with different expressions in front of the iconic [landmark], taken at golden hour with cinematic lighting. The animals are positioned close to the camera with their heads touching, mimicking a selfie pose, showing joyful, surprised, and calm expressions. The background features the full architectural detail of [landmark], softly illuminated, with a warm ambient atmosphere. Shot in a photographic, realistic cartoon style, high detail, 1:1 aspect ratio.
+```
+
+*Note: Replace [animal type] and [landmark] in the prompt with specific descriptions.*
+
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-93"></a>
+### Case 93: Glass Retexturing (by [@egeberkina](https://x.com/egeberkina))
+
+[Source Link](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="cases/93/glass_retexturing.jpeg" width="300" alt="Glass Retexturing">
+
+**Prompt**
+
+```
+retexture the image attached based on the JSON aesthetic below
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+```
+
+
+**Reference Image Required:** An image needs to be uploaded as the base for retexturing.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-92"></a>
+### Case 92: Perspective 3D Pop-Out Effect (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[Source Link](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="Perspective 3D Pop-Out Effect">
+
+**Prompt**
+
+```
+Hyperrealistic, top-down bird's-eye view shot, a beautiful Instagram model [Anne Hathaway / see reference image], with exquisite and beautiful makeup and fashionable styling, standing on the screen of a smartphone held up by someone. The image creates a strong perspective illusion. Emphasize the 3D effect of the girl standing out from the phone. She wears black-rimmed glasses, high-street fashion, and strikes a cute, playful pose. The phone screen is treated as a dark floor, like a small stage. The scene uses strong forced perspective to show the proportional difference between the hand, the phone, and the girl. The background is clean gray, using soft indoor light, shallow depth of field, and the overall style is surrealistic photorealistic compositing. Very strong perspective.
+```
+
+*Note: You can replace [Anne Hathaway] in the prompt with other character names. Or use a photo of a person as a reference image.*
+
+**Reference Image Required:** You can use a photo of a person as a reference image. This example image uses ["Girl with a Pearl Earring"](./references/Meisje_met_de_parel.jpg) as a reference image.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
+
+<a id="cases-91"></a>
+### Case 91: Google Maps to Ancient Treasure Map (by [@umesh_ai](https://x.com/umesh_ai))
+
+[Source Link](https://x.com/umesh_ai/status/1919701229363466328)
+
+<img src="cases/91/case.png" width="300" alt="Google Maps to Ancient Treasure Map">
+
+**Prompt**
+
+```
+Transform the image to an ancient treasure map drawn on aged parchment. The map includes detailed elements like sailing ships on the ocean, old ports or castles on the coastline, a dotted path leading to a large 'X' marking the treasure spot, mountains, palm trees, and a decorative compass rose. The overall style is reminiscent of old pirate adventure films.
+```
+
+
+**Reference Image Required:** A Google Maps screenshot or other map image needs to be uploaded as the basis for the transformation.
+
+
+---
+
+[⬆️ Back to Cases Directory](#cases-toc)
 
 <a id="cases-90"></a>
 ### Case 90: Branded Mechanical Keycaps (by [@egeberkina](https://x.com/egeberkina))
@@ -2413,6 +2679,7 @@ Special thanks to the following users for sharing their inspiring work ✨:
 *   [Anima (@Anima_Labs)](https://x.com/Anima_Labs)
 *   [terry623 (@terry623)](https://github.com/terry623)
 *   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
+*   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
 *   And other creators whose prompts may have been included through retweets or indirect shares.
 
 If your work is included here and you wish to change the attribution or have it removed, please feel free to contact us. ✉️
